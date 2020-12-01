@@ -5,7 +5,7 @@
 <p align="center">
  :computer: Currently working on Operational research and reporting @ TracFone Wireless.
  🌱 Learning FrontEnd Development.</br>
- 📫 How to reach me: lliacobofs@gmail.com
+ 📫 How to reach me: https://bit.ly/2Vn7MHx
  ⚡ Fun fact: I draw stuffs that look weird.
 </p>
 
