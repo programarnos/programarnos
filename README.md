@@ -23,5 +23,5 @@ Let Jacobo Correa = {
 - :mega: Personal project i am working on </br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/45574618/100776815-05010100-33d3-11eb-9ad8-488b28877f7e.gif"></p>
 
-[![programarnos's github stats](https://github-readme-stats.vercel.app/api?username=programarnos&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) <img width="21%" src="https://user-images.githubusercontent.com/45574618/100784648-8067b000-33dd-11eb-8ed7-a3165981f8f7.gif"><img width="21%" src="https://user-images.githubusercontent.com/45574618/100784648-8067b000-33dd-11eb-8ed7-a3165981f8f7.gif">
+[![programarnos's github stats](https://github-readme-stats.vercel.app/api?username=programarnos&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) <img width="20.5%" src="https://user-images.githubusercontent.com/45574618/100784648-8067b000-33dd-11eb-8ed7-a3165981f8f7.gif"><img width="20.5%" src="https://user-images.githubusercontent.com/45574618/100784648-8067b000-33dd-11eb-8ed7-a3165981f8f7.gif">
 
