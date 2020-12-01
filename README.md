@@ -1,4 +1,4 @@
-### :fire: Hi, I'm Jacobo Correa :fire:
+<h1 align="center"> :fire: Hi, I'm Jacobo Correa :fire: </h1>
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/45574618/100775532-6627d500-33d1-11eb-88a6-0b41dbfc84a5.png">
 </p>
@@ -20,6 +20,6 @@ Let Jacobo Correa = {
 ```
 
 - :mega: Personal project i am working on </br>
-![6KtrCo7p](https://user-images.githubusercontent.com/45574618/100776815-05010100-33d3-11eb-9ad8-488b28877f7e.gif)
+<p align="center"> <img src="https://user-images.githubusercontent.com/45574618/100776815-05010100-33d3-11eb-9ad8-488b28877f7e.gif"></p>
 
- [![programarnos's github stats](https://github-readme-stats.vercel.app/api?username=programarnos)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=programarnos"</p>
