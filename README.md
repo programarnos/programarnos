@@ -2,11 +2,12 @@
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/45574618/100775532-6627d500-33d1-11eb-88a6-0b41dbfc84a5.png">
 </p>
-
-- :computer: Currently working on Operational research and reporting @ TracFone Wireless.
-- 🌱 Learning FrontEnd Development.
-- 📫 How to reach me: lliacobofs@gmail.com
-- ⚡ Fun fact: I draw stuffs that look weird.
+<p align="center">
+ :computer: Currently working on Operational research and reporting @ TracFone Wireless.
+ 🌱 Learning FrontEnd Development.</br>
+ 📫 How to reach me: lliacobofs@gmail.com
+ ⚡ Fun fact: I draw stuffs that look weird.
+</p>
 
 ```javascript
 Let Jacobo Correa = {
