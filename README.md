@@ -1,16 +1,25 @@
-### Hi there 👋
+### :fire: Hi, I'm Jacobo Correa :fire:
 
-<!--
-**programarnos/programarnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" width="50%"
+src="https://user-images.githubusercontent.com/45574618/100775532-6627d500-33d1-11eb-88a6-0b41dbfc84a5.png">
 
-Here are some ideas to get you started:
+- :computer: Currently working on Operational research and reporting @ TracFone Wireless.
+- 🌱 Learning FrontEnd Development.
+- 📫 How to reach me: lliacobofs@gmail.com
+- ⚡ Fun fact: I draw stuffs that look weird.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+Let Jacobo Correa = {
+    code: ["Javascript", "HTML", "CSS"],
+    technologies: {
+            FrontEnd: {
+            js: ["React.js"],
+            css: ["materialize", "bootstrap"]
+        }
+      };
+```
+
+- :mega: Personal project i am working on </br>
+![6KtrCo7p](https://user-images.githubusercontent.com/45574618/100776815-05010100-33d3-11eb-9ad8-488b28877f7e.gif)
+
+ [![programarnos's github stats](https://github-readme-stats.vercel.app/api?username=programarnos)](https://github.com/anuraghazra/github-readme-stats)
