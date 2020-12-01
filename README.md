@@ -23,4 +23,5 @@ Let Jacobo Correa = {
 - :mega: Personal project i am working on </br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/45574618/100776815-05010100-33d3-11eb-9ad8-488b28877f7e.gif"></p>
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=programarnos"</p>
+[![programarnos's github stats](https://github-readme-stats.vercel.app/api?username=programarnos&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
